@@ -41,7 +41,7 @@ function Row({ title, fetchUrl, isLargeRow }) {
           }
         })
         .catch((error) => {
-          console.log(error);
+          // console.log(error);
         });
     }
   };
