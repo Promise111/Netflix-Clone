@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+h2 {
+  font-weight: 500;
+}
+.App{
+  background-color: #111;
+  color: white;
+
+}
